@@ -1,2 +1,1 @@
-# AGYSE-
-awesome games you should emulate
+# AGYSE- Awesome Games You Should Emulate!
