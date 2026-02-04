@@ -18,53 +18,53 @@ Featured systems will be split by company (Nintendo, Sony, Sega, Microsoft, Misc
 
 ## Nintendo Entertainment System (NES)
 
-## Game Boy (+ Game Boy Color)
+### Game Boy (+ Game Boy Color)
 
-## Super Nintendo Entertainment System (SNES)
+### Super Nintendo Entertainment System (SNES)
 
-## Nintendo 64 (N64)
+### Nintendo 64 (N64)
 
-## Game Boy Advance (GBA)
+### Game Boy Advance (GBA)
 
-## Gamecube (GCN)
+### Gamecube (GCN)
 
-## Nintendo DS
+### Nintendo DS
 
-## Wii
+### Wii
 
-## Nintendo 3DS
+### Nintendo 3DS
 
-## Wii U
+### Wii U
 
-## Nintendo Switch
+### Nintendo Switch
 
 # Playstation
 
-## Playstation (PS1)
+### Playstation (PS1)
 
-## Playstation 2 (PS2)
+### Playstation 2 (PS2)
 
-## Playstation Portable (PSP)
+### Playstation Portable (PSP)
 
-## Playstation 3 (PS3)
+### Playstation 3 (PS3)
 
-## Playstation Vita (PSVita)
+### Playstation Vita (PSVita)
 
-## Playstation 4 (PS4)
+### Playstation 4 (PS4)
 
 # Microsoft 
 
-## Xbox
+### Xbox
 
-## Xbox 360
+### Xbox 360
 
 # Sega
 
-## Sega Genesis / Mega Drive
+### Sega Genesis / Mega Drive
 
-## Sega Saturn
+### Sega Saturn
 
-## Sega Dreamcast
+### Sega Dreamcast
 
 # Miscellaneous 
 
