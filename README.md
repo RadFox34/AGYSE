@@ -16,59 +16,86 @@ Featured systems will be split by company (Nintendo, Sony, Sega, Microsoft, Misc
 
 # Nintendo
 
-## Nintendo Entertainment System (NES)
+### Nintendo Entertainment System (NES)
+Some of the oldest games you'll see on this list truly planting the seeds for so many genres.
 
 ### Game Boy (+ Game Boy Color)
+Showing us the potential of video games in the palms of your hands.
 
 ### Super Nintendo Entertainment System (SNES)
+The system where video games started to become really amazing...
 
 ### Nintendo 64 (N64)
+The magic of exploring games in 3D with 360 degrees of control!
 
 ### Game Boy Advance (GBA)
+A beefier handheld letting you play some massively ambitious games anywhere you go
 
 ### Gamecube (GCN)
+The weird little box with some really inventive experiences
 
 ### Nintendo DS
+Almost like a precursor to smartphones, being a touch screen handheld filled with great casual games.
 
 ### Wii
+Games that made you get up and move! Some great stuff truly anyone can enjoy.
 
 ### Nintendo 3DS
+Nintendo's last traditional handheld still punched well above its weight!
 
 ### Wii U
+The funny confused little flop still managed to get some really solid games.
 
 ### Nintendo Switch
+This system changed everything about portable gaming as we know it.
+
 
 # Playstation
 
 ### Playstation (PS1)
+Video games in full 3D??? Look at those polygons!
 
 ### Playstation 2 (PS2)
+You're buying this because of the games and not the DVD player, right?
 
 ### Playstation Portable (PSP)
+Music play, movie releases, internet browsing, oh and some cool video games too.
 
 ### Playstation 3 (PS3)
+This console terrifies babies.
 
 ### Playstation Vita (PSVita)
+The handheld that was never given a chance managed to build a very strong cult following.
 
-### Playstation 4 (PS4)
+## Misc.
+Some extra games that are impossible or very difficult to emulate.
+
 
 # Microsoft 
 
-### Xbox
+### Xbox & 360
+Grouped together because the lists are short and emulators hard to use.
 
-### Xbox 360
 
 # Sega
 
 ### Sega Genesis / Mega Drive
-
-### Sega Saturn
+Blast processing! It could do what nintendon't!
 
 ### Sega Dreamcast
+The system way too ahead of its time for its own good.
+
+### Misc.
+A few other Sega systems grouped together.
+
 
 # Miscellaneous 
 
-## Arcade
+### Arcade
+Drop in a quarter for quick action!
 
-## Atari 2600
+### Atari 2600
+You'll really need your imagination for some of these, but they hold up suprisingly well!
 
+### Retro PC Titles
+Not really bundled under the same emulator, or even emulators at all for some of these!
