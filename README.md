@@ -71,7 +71,7 @@ This console terrifies babies.
 ### Playstation Vita (PSVita)
 The handheld that was never given a chance, yet it managed to build a very strong cult following.
 
-## Misc.
+### Misc.
 Some extra games that are impossible or very difficult to emulate.
 
 
