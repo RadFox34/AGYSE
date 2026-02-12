@@ -59,7 +59,7 @@ Additional systems being mentioned for sake of completion.
 ### [Playstation (PS1)](https://github.com/RadFox34/AGYSE/wiki/Playstation-(PS1))
 Video games in full 3D??? Look at those polygons!
 
-### Playstation 2 (PS2)
+### [Playstation 2 (PS2)](https://github.com/RadFox34/AGYSE/wiki/Playstation-2)
 You're buying this because of the games and not the DVD player, right?
 
 ### Playstation Portable (PSP)
