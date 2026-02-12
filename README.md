@@ -26,7 +26,7 @@ Showing us the potential of video games in the palms of your hands.
 ### [Super Nintendo Entertainment System (SNES)](https://github.com/RadFox34/AGYSE/wiki/Super-Nintendo-Entertainment-System-(SNES))
 The system where video games started to become really amazing...
 
-### Nintendo 64 (N64)
+### [Nintendo 64 (N64)](https://github.com/RadFox34/AGYSE/wiki/Nintendo-64)
 The magic of exploring games in 3D with 360 degrees of control!
 
 ### Game Boy Advance (GBA)
