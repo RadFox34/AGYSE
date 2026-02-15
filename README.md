@@ -101,5 +101,5 @@ Drop in a quarter for quick action!
 ### Atari 2600
 You'll really need your imagination for some of these, but they hold up suprisingly well!
 
-### Retro PC Titles
+### [Retro PC Games](https://github.com/RadFox34/AGYSE/wiki/Retro-PC-Games)
 Not really bundled under the same emulator, or even emulators at all for some of these!
