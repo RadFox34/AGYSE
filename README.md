@@ -35,7 +35,7 @@ A beefier handheld letting you play some massively ambitious games anywhere you 
 ### Gamecube (GCN)
 The weird little box with some really inventive experiences
 
-### Nintendo DS
+### [Nintendo DS](https://github.com/RadFox34/AGYSE/wiki/Nintendo-DS)
 Almost like a precursor to smartphones, being a touch screen handheld filled with great casual games.
 
 ### Wii
