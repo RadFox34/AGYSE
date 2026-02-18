@@ -47,7 +47,7 @@ Nintendo's last traditional handheld still punched well above its weight!
 ### [Wii U](https://github.com/RadFox34/AGYSE/wiki/Wii-U)
 The funny confused little flop still managed to get some really solid games.
 
-### Nintendo Switch
+### [Nintendo Switch](https://github.com/RadFox34/AGYSE/wiki/Nintendo-Switch)
 This system changed everything about portable gaming as we know it.
 
 ### Misc.
