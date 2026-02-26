@@ -32,7 +32,7 @@ The magic of exploring games in 3D with 360 degrees of control!
 ### [Game Boy Advance (GBA)](https://github.com/RadFox34/AGYSE/wiki/Game-Boy-Advance-(GBA))
 A beefier handheld letting you play some massively ambitious games anywhere you go
 
-### Gamecube (GCN)
+### [Gamecube](https://github.com/RadFox34/AGYSE/wiki/Gamecube)
 The weird little box with some really inventive experiences
 
 ### [Nintendo DS](https://github.com/RadFox34/AGYSE/wiki/Nintendo-DS)
