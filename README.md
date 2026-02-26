@@ -107,5 +107,14 @@ Not really bundled under the same emulator, or even emulators at all for some of
 ### [Emulation Extras](https://github.com/RadFox34/AGYSE/wiki/Emulation-Extras)
 Showing off some really cool fun things you can do with the power of emulation.
 
+### Frontends
+What if you could bundle all your emulated games into one convenient place?
+
+### Netplay
+Playing these games with online multiplayer? Tell me more!
+
+### Rom Hacks
+It's like that game you just played but... a completely different experience!
+
 ### Retroarch
 A multi system emulator setup that might be worth your time.
